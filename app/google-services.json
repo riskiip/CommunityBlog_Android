@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "355950217492",
+    "firebase_url": "https://blogapp-cc67f.firebaseio.com",
+    "project_id": "blogapp-cc67f",
+    "storage_bucket": "blogapp-cc67f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355950217492:android:d9a674198ba2539a3a1a01",
+        "android_client_info": {
+          "package_name": "com.rizki.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355950217492-td584jmrr94foclsg8ba5ldea47v423t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdrpK_76K665-m2sgcrjqk1OClYAq-94I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355950217492-td584jmrr94foclsg8ba5ldea47v423t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
